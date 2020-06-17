@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Web.css" type="text/css">
+    <body style="background-color:rgb(177, 246, 255);"></body>
+    <img src="sky_studious_logo.jpg"style="width:120px;height:120px;">
+    <ul>
+        <li><a href="default.asp">Home</a></li>
+        <li><a href="news.asp">News</a></li>
+        <li><a href="contact.asp">Contact</a></li>
+        <li><a href="about.asp">About</a></li>
+        <li><a href="about.asp">Shop</a></li>
+      </ul>
+    <h2>Welcome to Sky Studious </h2>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>|Sky Studious|</title>
+    </head>
+<body>
+    <script
+        src="Web.js"
+        src="Web.CSS">
+    </script>
+    <div class= 'boxed'>
+        <p style="font-family: Arial, Helvetica, sans-serif;">
+             Sky studious is a dedicated Roblox group that works on many games that will be released soon.
+            Wearable clothes and t-shirt are also going to be avalible soon.
+        </p>
+        <h3>
+            How do I support Sky Studious and get early updates on games and content?
+        </h3>
+        <p style="font-family: Arial, Helvetica, sans-serif;">
+            To suport us, please buy our clothes and gamepasses or join the group <a href="https://web.roblox.com/groups/6551431/Sky-Studious#!/about" style="color: black;">here</a>
+        </p>
+    </div>
+</body>
+</html>
